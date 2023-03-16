@@ -63,7 +63,7 @@ a JavaScript project for the Leaderboard list app, using webpack and ES6 feature
 
 ## 🚀 Live Demo <a name="Live-Demo"></a>
 
-- [http://127.0.0.1:5500/dist/index.html](LIVE PROJECT DEMO)
+- (http://127.0.0.1:5500/dist/index.html)[LIVE PROJECT DEMO]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
