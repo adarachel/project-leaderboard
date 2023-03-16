@@ -25,7 +25,7 @@ const scores = [
   },
 ];
 
- const displayData = () => {
+const displayData = () => {
   scores.forEach((score) => {
     const tbody = document.querySelector('tbody');
     const rowHolder = document.createElement('div');
