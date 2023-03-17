@@ -1,4 +1,12 @@
 import './style.css';
-import displayData from './modules/add.js';
+import { getData } from './modules/addData.js';
+import refreshData from './modules/score.js';
+import saveScore from './modules/returnData.js';
 
-displayData();
+const submitBtn = document.querySelector('.submit');
+const refreshbtn = document.querySelector('.refresh');
+
+getData();
+document.addEventListener('DOMContentLoaded', refreshData);
+refreshbtn.addEventListener('click', refreshData);
+submitBtn.addEventListener('click', saveScore);
