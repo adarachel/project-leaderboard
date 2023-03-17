@@ -63,7 +63,7 @@ a JavaScript project for the Leaderboard list app, using webpack and ES6 feature
 
 ## 🚀 Live Demo <a name="Live-Demo"></a>
 
-- [LIVE PROJECT DEMO](http://127.0.0.1:5500/dist/index.html)
+- [LIVE PROJECT DEMO](http://localhost:8080/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -111,7 +111,7 @@ npx eslint .                        to check error for javascript
 ## 👤 Ada Rachel
 
 - GitHub: [@githubhandle](https://github.com/adarachel)
-- Twitter: [@twitterhandle](twitter.com/adarachel)
+- Twitter: [@twitterhandle](https://twitter.com/adarachel_dev)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adarachel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
