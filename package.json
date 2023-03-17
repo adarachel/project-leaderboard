@@ -4,8 +4,9 @@
   "description": "a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules.",
   "private": true,
   "scripts": {
-    "start": "webpack serve --open",
-    "build": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack serve --open"
   },
   "keywords": [],
   "author": "",
