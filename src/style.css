@@ -1,14 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
 
 * {
-  padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 
+.menu {
+  display: flex;
+  justify-content: space-between;
+  border: 5px solid #000;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: 'Comic Neue', cursive;
+}
+
 h1 {
-  font-size: 2rem;
-  margin: 5rem 30% 2rem 30%;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 1em;
+  margin-top: 2em;
   font-family: 'Comic Neue', cursive;
 }
 
@@ -35,12 +45,23 @@ h1 {
 .refresh {
   padding: 5px 8px;
   font-family: 'Comic Neue', cursive;
+  border: 3px solid black;
+}
+
+.refresh:hover {
+  cursor: pointer;
+  color: #fff;
+  background-color: pink;
 }
 
 .scores {
   border: 5px solid #000;
   margin-top: 2rem;
   font-family: 'Comic Neue', cursive;
+}
+
+.list-scores {
+  background-color: pink;
 }
 
 table {
@@ -66,10 +87,27 @@ form {
 form input {
   padding: 8px;
   font-family: 'Comic Neue', cursive;
+  border: 5px solid black;
 }
 
 .submit {
   margin-left: 5rem;
   padding: 8px 10px;
+  font-family: 'Comic Neue', cursive;
+  border: 3px solid black;
+}
+
+.submit:hover {
+  cursor: pointer;
+  color: #fff;
+  background-color: pink;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  border: 5px solid #000;
+  border-radius: 5px;
+  padding: 10px;
   font-family: 'Comic Neue', cursive;
 }

@@ -3,13 +3,6 @@ a JavaScript project for the Leaderboard list app, using webpack and ES6 feature
 
 <a name="readme-top"></a>
 
-
-<div align="center">
-
-  <h3><b>Leader board</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -33,7 +26,7 @@ a JavaScript project for the Leaderboard list app, using webpack and ES6 feature
 
 # 📖 [Leaderboard] <a name="about-project"></a>
 
->To do list application helps you to manage your daily task effectively and let you reserve your schedule and daily plan.
+> A JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules.
 
 **[Leaderboard project]** 
 
